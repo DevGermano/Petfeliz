@@ -18,7 +18,7 @@
     
     <properties>
         <java.version>21</java.version>
-        <start-class>com.felzpet.petfeliz.PetfelizApplication</start-class>
+        <start-class>com.felizpet.petfeliz.PetfelizzApplication</start-class>
     </properties>
     
     <dependencies>
@@ -48,7 +48,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.felzpet.petfeliz.PetfelizApplication</mainClass>
+                    <mainClass>com.felizpet.petfeliz.PetfelizzApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>
